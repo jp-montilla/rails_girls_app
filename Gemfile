@@ -36,6 +36,8 @@ gem 'better_errors', '~> 2.5', '>= 2.5.1'
 
 gem 'hirb', '~> 0.7.3'
 
+gem 'devise'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
