@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 
 gem 'hirb', '~> 0.7.3'
 
